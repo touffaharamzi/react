@@ -1,0 +1,15 @@
+body{
+  background-image: url("bg.jpg");
+  background-repeat: no-repeat;
+  background-size:auto;
+
+}
+.App {
+  text-align: center;
+ 
+}
+form{
+  padding-left: 5cm;
+  padding-right: 5cm;
+  color:white;
+}
